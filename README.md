@@ -6,4 +6,4 @@ Dário Vasconcelos - dgsv
 Victor Mellia - vcm
 
 
-## Link para kaggle - https://www.kaggle.com/andrewmvd/data-analyst-jobs
+## Link para kaggle - https://www.kaggle.com/spscientist/students-performance-in-exams
