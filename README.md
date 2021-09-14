@@ -1,7 +1,9 @@
 # Ciencia-de-dados
 Projeto da cadeira de Ciência de dados do curso de Engenharia da Computação.
+---
+Trata-se da análise de dados de uma amostra de dados do ENEM 2016 (Parte 1) e a criação de um modelo otimizado de previsão de chuva (parte 2)
 
-## Integrantes
+## Colaboradores
 Dário Vasconcelos - dgsv
 Victor Mellia - vcm
 
